@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_jfC9sDFkEe-3Dt3AfuODxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_oevYADD6Ee-3Dt3AfuODxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_oevYADD6Ee-3Dt3AfuODxQ - fournisseurs",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
