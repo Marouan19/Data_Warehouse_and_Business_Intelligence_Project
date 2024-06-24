@@ -5,9 +5,33 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_Mb5QgDF3Ee-UwandcNAfsg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZEBlwDFjEe-3Dt3AfuODxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dmAT4DD6Ee-3Dt3AfuODxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_oevYADD6Ee-3Dt3AfuODxQ",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_7c318DD6Ee-3Dt3AfuODxQ - Produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ZEBlwDFjEe-3Dt3AfuODxQ - cout_produits",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dmAT4DD6Ee-3Dt3AfuODxQ - Fournisseur_facture",
+    "version" : "Latest",
+    "type" : "schema"
   }, {
     "id" : "_oevYADD6Ee-3Dt3AfuODxQ - fournisseurs",
     "version" : "Latest",
