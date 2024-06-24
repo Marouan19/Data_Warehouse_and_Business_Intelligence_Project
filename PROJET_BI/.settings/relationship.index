@@ -1,10 +1,29 @@
 [ {
   "baseItem" : {
+    "id" : "_1zLLADHVEe-yxPY7WqRfmA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7c318DD6Ee-3Dt3AfuODxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Mb5QgDF3Ee-UwandcNAfsg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_jfC9sDFkEe-3Dt3AfuODxQ",
     "version" : "0.1",
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_7c318DD6Ee-3Dt3AfuODxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_Mb5QgDF3Ee-UwandcNAfsg",
     "version" : "Latest",
     "type" : "property"
@@ -20,10 +39,6 @@
     "id" : "_oevYADD6Ee-3Dt3AfuODxQ",
     "version" : "Latest",
     "type" : "property"
-  }, {
-    "id" : "_7c318DD6Ee-3Dt3AfuODxQ - Produit",
-    "version" : "Latest",
-    "type" : "schema"
   }, {
     "id" : "_ZEBlwDFjEe-3Dt3AfuODxQ - cout_produits",
     "version" : "Latest",
